@@ -21,5 +21,6 @@
     "aspect ratio"
   ],
   "author": "Burak Sakalli",
-  "license": "MIT"
+  "repository": "buraksakalli/react-native-aspect-ratio",
+  "license": "MIT",
 }
