@@ -1,0 +1,25 @@
+{
+  "name": "react-native-aspect-ratio",
+  "version": "0.0.2",
+  "description": "Easy way to React Native aspect ratio calculator",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "16.11.0",
+    "react-native": "0.62.2"
+  },
+  "devDependencies": {
+    "babel-jest": "22.4.4",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "22.4.4",
+    "react-test-renderer": "16.3.1"
+  },
+  "keywords": [
+    "react-native",
+    "aspect ratio"
+  ],
+  "author": "Burak Sakalli",
+  "license": "MIT"
+}
